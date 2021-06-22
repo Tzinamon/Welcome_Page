@@ -1,6 +1,12 @@
 h2 {
     background-color: lightslategray;
     color: black;
-    border: solid black;
+    border: solid #000000;
+    text-align: center;
+}
+h3 {
+    background-color: lightgray;
+    color: grey;
+    border: solid #000000;
     text-align: center;
 }
